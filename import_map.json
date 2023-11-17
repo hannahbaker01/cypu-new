@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "dotenv": "https://deno.land/std@0.154.0/dotenv/mod.ts",
+    "envalid": "https://deno.land/x/envalid@0.1.2/mod.ts",
+    "server": "https://deno.land/std@0.154.0/http/server.ts",
+    "grammy/": "https://deno.land/x/grammy@v1.14.1/",
+    "redis": "https://deno.land/x/redis@v0.27.2/mod.ts"
+  }
+}
